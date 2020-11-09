@@ -49,7 +49,7 @@ try:
         each.drop(0, inplace=True)
         each = each.loc[: , th]
         #写入文件
-        with open('test.txt','a+',encoding='utf-8') as f:
+        with open('优化的数据.txt','a+',encoding='utf-8') as f:
             f.write(str(each) + '\n')
 
 except Exception as identifier:
