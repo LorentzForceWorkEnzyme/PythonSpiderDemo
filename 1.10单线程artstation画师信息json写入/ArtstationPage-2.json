@@ -1,0 +1,1184 @@
+{
+    "data": [
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": null,
+            "city": "Yakutsk",
+            "country": "Russia",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 19233,
+            "following_back": false,
+            "full_name": "Ivan Khotenov",
+            "headline": "Art Director - MYTONA LLC",
+            "id": 5405,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://www.gravatar.com/avatar/499895991f616d3e290242a3a6668c91.jpg?size=240&d=https%3A%2F%2Fwww.artstation.com%2Fassets%2Fdefault_avatar.jpg",
+            "location": "Yakutsk, Russia",
+            "medium_avatar_url": "https://www.gravatar.com/avatar/499895991f616d3e290242a3a6668c91.jpg?size=240&d=https%3A%2F%2Fwww.artstation.com%2Fassets%2Fdefault_avatar.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/036/651/072/20210412132030/smaller_square/ivan-khotenov-biowom-20m.jpg?1618251630",
+                "https://cdna.artstation.com/p/assets/images/images/034/127/576/smaller_square/ivan-khotenov-face-f.jpg?1611488823",
+                "https://cdnb.artstation.com/p/assets/images/images/034/113/371/20210123135319/smaller_square/ivan-khotenov-vulcan-f.jpg?1611431599",
+                "https://cdna.artstation.com/p/assets/images/images/022/367/282/20191201032932/smaller_square/ivan-khotenov-test-min.jpg?1575192573",
+                "https://cdnb.artstation.com/p/assets/images/images/019/765/817/20190804114804/smaller_square/ivan-khotenov-chaos.jpg?1564937284",
+                "https://cdna.artstation.com/p/assets/images/images/015/561/554/20190129180334/smaller_square/ivan-khotenov-sk-15.jpg?1548806614"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "yokell",
+            "username": "yokell"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": null,
+            "city": "Birmingham",
+            "country": "United Kingdom",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 6335,
+            "following_back": false,
+            "full_name": "Joaquim Barata",
+            "headline": "Concept Artist / Illustrator ",
+            "id": 55114,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://www.gravatar.com/avatar/26327394c430ad5bd4e2202adf270a3e.jpg?size=240&d=https%3A%2F%2Fwww.artstation.com%2Fassets%2Fdefault_avatar.jpg",
+            "location": "Birmingham, United Kingdom",
+            "medium_avatar_url": "https://www.gravatar.com/avatar/26327394c430ad5bd4e2202adf270a3e.jpg?size=240&d=https%3A%2F%2Fwww.artstation.com%2Fassets%2Fdefault_avatar.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/006/207/202/20170606204605/smaller_square/joaquim-barata-463p2.jpg?1496799965",
+                "https://cdna.artstation.com/p/assets/images/images/006/207/168/20170606204404/smaller_square/joaquim-barata-493.jpg?1496799845",
+                "https://cdna.artstation.com/p/assets/images/images/006/207/412/20170606211044/smaller_square/joaquim-barata-293p7.jpg?1496801445",
+                "https://cdna.artstation.com/p/assets/images/images/006/207/118/20170606203944/smaller_square/joaquim-barata-410p9.jpg?1496799584",
+                "https://cdnb.artstation.com/p/assets/images/images/006/207/103/20170606203825/smaller_square/joaquim-barata-392p10.jpg?1496799506",
+                "https://cdna.artstation.com/p/assets/images/images/006/206/936/20170606202304/smaller_square/joaquim-barata-380p14.jpg?1496798584"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "jkwonjin",
+            "username": "jkwonjin"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "4e805d0a8d4fa17a2d274e5d5006832d.png",
+            "city": "Bordeaux",
+            "country": "France",
+            "cover_file_name": "5741ca65cbb491a855ce7f5364f9794c.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/190/181/small/5741ca65cbb491a855ce7f5364f9794c.jpg",
+            "followed": false,
+            "followers_count": 702,
+            "following_back": false,
+            "full_name": "adrien amilhat",
+            "headline": "Illustrator and Concept Artist",
+            "id": 190181,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/190/181/large/4e805d0a8d4fa17a2d274e5d5006832d.jpg",
+            "location": "Bordeaux, France",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/190/181/medium/4e805d0a8d4fa17a2d274e5d5006832d.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/032/123/230/smaller_square/adrien-amilhat-adrien-amilhat-voraces-preview.jpg?1605546796",
+                "https://cdna.artstation.com/p/assets/covers/images/032/057/986/smaller_square/adrien-amilhat-adrien-amilhat-nes-du-volcan-preview.jpg?1605355449",
+                "https://cdna.artstation.com/p/assets/covers/images/031/998/724/smaller_square/adrien-amilhat-adrien-amilhat-p05preview.jpg?1605187198",
+                "https://cdna.artstation.com/p/assets/images/images/031/366/666/smaller_square/adrien-amilhat-couv-vierge.jpg?1603398319",
+                "https://cdna.artstation.com/p/assets/images/images/030/505/000/smaller_square/adrien-amilhat-tank01-01.jpg?1600804337",
+                "https://cdnb.artstation.com/p/assets/covers/images/019/707/971/smaller_square/adrien-amilhat-untitled-291-01miniature.jpg?1564672187"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Matte Painting"
+                },
+                {
+                    "name": "Storyboarding"
+                },
+                {
+                    "name": "3D Visualization"
+                },
+                {
+                    "name": "Marketing Illustration"
+                },
+                {
+                    "name": "Production Design"
+                },
+                {
+                    "name": "Storytelling"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/003/default/aftereffects.png?1608144443",
+                    "name": "After Effects"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/073/default/flash.png?1424862959",
+                    "name": "Flash"
+                }
+            ],
+            "subdomain": "adrienamilhat",
+            "username": "adrienamilhat"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "Pew_03_solos.jpg",
+            "city": "Angoul\u00eame",
+            "country": "France",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 2436,
+            "following_back": false,
+            "full_name": "Guillaume Ospital",
+            "headline": "Freelance Illustrator &amp; Concept Artist",
+            "id": 2279,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/002/279/large/Pew_03_solos.jpg",
+            "location": "Angoul\u00eame, France",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/002/279/medium/Pew_03_solos.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/012/535/054/20180826085828/smaller_square/guillaume-ospital-ink10.jpg?1535291908",
+                "https://cdnb.artstation.com/p/assets/images/images/000/018/149/20140420071340/smaller_square/crossing_national.jpg?1400279520",
+                "https://cdna.artstation.com/p/assets/images/images/000/018/204/20140420072013/smaller_square/back_to_basics.jpg?1400279648",
+                "https://cdna.artstation.com/p/assets/images/images/000/018/214/20140420072132/smaller_square/illo_17.jpg?1400279663",
+                "https://cdna.artstation.com/p/assets/images/images/000/018/226/20140420072210/smaller_square/illo_13.jpg?1400279683",
+                "https://cdnb.artstation.com/p/assets/images/images/000/018/447/20140420074838/smaller_square/party-smasher.jpg?1400280148"
+            ],
+            "skills": [
+                {
+                    "name": "Character Design"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Concept Design"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/039/default/softimage.png?1479506438",
+                    "name": "Softimage"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                }
+            ],
+            "subdomain": "guillaumeo",
+            "username": "guillaumeo"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": true,
+            "avatar_file_name": "ccd7dfb3762ac1decd346c1465e48aa7.png",
+            "city": "Minsk",
+            "country": "Belarus",
+            "cover_file_name": "2a6c73d1c6dc4448946cb1d2fb911c29.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/189/082/small/2a6c73d1c6dc4448946cb1d2fb911c29.jpg",
+            "followed": false,
+            "followers_count": 17067,
+            "following_back": false,
+            "full_name": "James O'Brien (Vadim Ignatiev)",
+            "headline": "CG Artist",
+            "id": 189082,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/189/082/large/ccd7dfb3762ac1decd346c1465e48aa7.jpg",
+            "location": "Minsk, Belarus",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/189/082/medium/ccd7dfb3762ac1decd346c1465e48aa7.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/005/727/891/smaller_square/james-o-brien-60-s-brooklyn.jpg?1493317748",
+                "https://cdnb.artstation.com/p/assets/images/images/006/040/905/smaller_square/james-o-brien-60-s-brooklyn-day.jpg?1495606959",
+                "https://cdna.artstation.com/p/assets/images/images/006/724/890/smaller_square/james-o-brien-vadim-ignatiev-60-s-brooklyn-fog.jpg?1500805415",
+                "https://cdna.artstation.com/p/assets/images/images/007/826/250/smaller_square/james-o-brien-vadim-ignatiev-foggy-winterdd.jpg?1508775002",
+                "https://cdna.artstation.com/p/assets/images/images/009/228/740/smaller_square/james-o-brien-vadim-ignatiev-59f35b5a21322.jpg?1517829210",
+                "https://cdna.artstation.com/p/assets/images/images/008/192/874/smaller_square/james-o-brien-vadim-ignatiev-ola.jpg?1511097786"
+            ],
+            "skills": [
+                {
+                    "name": "Lighting"
+                },
+                {
+                    "name": "Rendering"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Vehicle Modeling"
+                },
+                {
+                    "name": "3D Visualization"
+                },
+                {
+                    "name": "Environment Modeling"
+                },
+                {
+                    "name": "Low-poly Modeling"
+                },
+                {
+                    "name": "High-poly Modeling"
+                },
+                {
+                    "name": "Prop Modeling"
+                },
+                {
+                    "name": "Retopology"
+                },
+                {
+                    "name": "Texturing"
+                },
+                {
+                    "name": "UV Mapping"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/008/default/blender_icon_1024x1024.png?1570478232",
+                    "name": "Blender"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/017/default/GIMP.png?1424684346",
+                    "name": "GIMP"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/001/014/default/redshift-logo-notext-400px.png?1438876547",
+                    "name": "Redshift"
+                }
+            ],
+            "subdomain": "jamesobrien",
+            "username": "jamesobrien"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "41d481f34298674b1bc3df31bdd77e33.jpg",
+            "city": "Vancouver",
+            "country": "Canada",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 33123,
+            "following_back": false,
+            "full_name": "Jason Nguyen",
+            "headline": "Illustrator / Concept Artist",
+            "id": 20124,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/020/124/large/41d481f34298674b1bc3df31bdd77e33.jpg",
+            "location": "Vancouver, Canada",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/020/124/medium/41d481f34298674b1bc3df31bdd77e33.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/033/538/210/20210105161202/smaller_square/jason-nguyen-leviathan-slayer7-2.jpg?1609884722",
+                "https://cdna.artstation.com/p/assets/images/images/033/103/966/20201219233538/smaller_square/jason-nguyen-demonbow-final2.jpg?1608442539",
+                "https://cdnb.artstation.com/p/assets/images/images/032/841/087/20201219163421/smaller_square/jason-nguyen-demon21mr.jpg?1608417262",
+                "https://cdnb.artstation.com/p/assets/images/images/032/815/641/20201219163451/smaller_square/jason-nguyen-demon9-3.jpg?1608417292",
+                "https://cdna.artstation.com/p/assets/images/images/023/633/894/20200618103016/smaller_square/jason-nguyen-mechakingdom-dlf.jpg?1592494217",
+                "https://cdnb.artstation.com/p/assets/images/images/010/610/467/20180502212617/smaller_square/jason-nguyen-artstationchallenge-wildwest-lineup.jpg?1525314378"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Book Cover Illustration"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/664/default/clipstudiopaint.png?1504882299",
+                    "name": "CLIP STUDIO PAINT"
+                }
+            ],
+            "subdomain": "jasonn",
+            "username": "jasonn"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "Hudson_eye_small.jpg",
+            "city": "Los Angeles",
+            "country": "United States",
+            "cover_file_name": "853581118ac692e5f5ab32f455857665.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/013/177/small/853581118ac692e5f5ab32f455857665.jpg",
+            "followed": false,
+            "followers_count": 1076,
+            "following_back": false,
+            "full_name": "Tom Nemeth",
+            "headline": "Environment Artist",
+            "id": 13177,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/013/177/large/Hudson_eye_small.jpg",
+            "location": "Los Angeles, United States",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/013/177/medium/Hudson_eye_small.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/027/894/364/smaller_square/tom-nemeth-tom-nemeth-showreel-cover.jpg?1592879761",
+                "https://cdnb.artstation.com/p/assets/covers/images/035/353/523/smaller_square/tom-nemeth-tom-nemeth-thumbnail.jpg?1614749578",
+                "https://cdna.artstation.com/p/assets/video_clips/images/034/777/780/smaller_square/tom-nemeth-thumb.jpg?1613196742",
+                "https://cdnb.artstation.com/p/assets/covers/images/027/927/985/smaller_square/tom-nemeth-tom-nemeth-tlou2-artstation-capitol-hill-cover-b.jpg?1592982071",
+                "https://cdna.artstation.com/p/assets/covers/images/027/928/154/smaller_square/tom-nemeth-tom-nemeth-tlou2-artstation-escape-cover.jpg?1592982713",
+                "https://cdna.artstation.com/p/assets/covers/images/027/928/304/smaller_square/tom-nemeth-tom-nemeth-tlou2-artstation-forest-cover.jpg?1592983471"
+            ],
+            "skills": [
+                {
+                    "name": "Rendering"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Environment Modeling"
+                },
+                {
+                    "name": "Lighting"
+                },
+                {
+                    "name": "Prop Modeling"
+                },
+                {
+                    "name": "Texturing"
+                },
+                {
+                    "name": "Layout"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/044/default/unreal_logo_0.png?1471455994",
+                    "name": "Unreal Engine"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/071/default/V-Ray_ball_wht.png?1456319218",
+                    "name": "V-Ray"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/529/default/Katana.png?1461009242",
+                    "name": "Katana"
+                }
+            ],
+            "subdomain": "tomnemeth",
+            "username": "tomnemeth"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "4b03dd00f587eaccb16d95e7c9eafc08.jpg",
+            "city": "Niteroi",
+            "country": "Brazil",
+            "cover_file_name": "9cf66c69b18d2f3654e06fcbb8b3ebf8.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/014/708/small/9cf66c69b18d2f3654e06fcbb8b3ebf8.jpg",
+            "followed": false,
+            "followers_count": 686,
+            "following_back": false,
+            "full_name": "Fabricio Moraes",
+            "headline": "3D Artist - Creative Director at Gingerpic Studio",
+            "id": 14708,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/014/708/large/4b03dd00f587eaccb16d95e7c9eafc08.jpg",
+            "location": "Niteroi, Brazil",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/014/708/medium/4b03dd00f587eaccb16d95e7c9eafc08.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/covers/images/028/502/557/20200713141252/smaller_square/fabricio-moraes-fabricio-moraes-ang-05.jpg?1594667572",
+                "https://cdnb.artstation.com/p/assets/images/images/028/702/257/20210304224558/smaller_square/fabricio-moraes-escafandrista-03-highres-adobergb.jpg?1614919559",
+                "https://cdna.artstation.com/p/assets/images/images/026/454/902/20200506225812/smaller_square/fabricio-moraes-explorer.jpg?1588823892",
+                "https://cdna.artstation.com/p/assets/images/images/004/492/912/20210304224533/smaller_square/fabricio-moraes-slug-race-01.jpg?1614919533",
+                "https://cdnb.artstation.com/p/assets/images/images/001/032/463/20210304224417/smaller_square/fabricio-moraes-a-new-dawn.jpg?1614919457",
+                "https://cdna.artstation.com/p/assets/images/images/035/603/942/20210310112847/smaller_square/fabricio-moraes-steamnocchio.jpg?1615397327"
+            ],
+            "skills": [
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Texturing"
+                },
+                {
+                    "name": "Post-production"
+                },
+                {
+                    "name": "Animation"
+                },
+                {
+                    "name": "Characters and assets creation for games"
+                },
+                {
+                    "name": "Look Development"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/027/default/mudbox.png?1504879413",
+                    "name": "Mudbox"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/003/default/aftereffects.png?1608144443",
+                    "name": "After Effects"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/029/default/Nuke.png?1424684350",
+                    "name": "Nuke"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/023/default/Mari.png?1424684348",
+                    "name": "Mari"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/008/default/blender_icon_1024x1024.png?1570478232",
+                    "name": "Blender"
+                }
+            ],
+            "subdomain": "fabmoraes",
+            "username": "fabmoraes"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "a98cab8053ba1f170a1185556e5a38ce.jpg",
+            "city": "Montr\u00e9al",
+            "country": "Canada",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 106,
+            "following_back": false,
+            "full_name": "Joseph Rahamefy ",
+            "headline": "Art disciple",
+            "id": 13325,
+            "is_organization_owner": false,
+            "is_plus_member": true,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/013/325/large/a98cab8053ba1f170a1185556e5a38ce.jpg",
+            "location": "Montr\u00e9al, Canada",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/013/325/medium/a98cab8053ba1f170a1185556e5a38ce.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/covers/images/034/606/601/20210207195117/smaller_square/joseph-rahamefy-joseph-rahamefy-guy-mauve-p0.jpg?1612749077"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/918/default/Paintstorm.png?1443084955",
+                    "name": "Paintstorm Studio"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/008/default/blender_icon_1024x1024.png?1570478232",
+                    "name": "Blender"
+                }
+            ],
+            "subdomain": "rano",
+            "username": "rano"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "ASAvatar.png",
+            "city": "Helsinki",
+            "country": "Finland",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 587,
+            "following_back": false,
+            "full_name": "Saara M\u00e4kinen",
+            "headline": "Senior Game Artist and Illustrator",
+            "id": 13106,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/013/106/large/ASAvatar.jpg",
+            "location": "Helsinki, Finland",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/013/106/medium/ASAvatar.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/000/123/317/20161010100300/smaller_square/saara-makinen-1e9c038968cde9c53a6f8ec6051259b2-d5ce4ea.jpg?1476111780",
+                "https://cdnb.artstation.com/p/assets/images/images/000/123/311/20160905054949/smaller_square/saara-makinen-dark-elf-mage-concept-2-by-arsinoes-d507sd8.jpg?1473072589",
+                "https://cdnb.artstation.com/p/assets/images/images/000/123/309/20161010100530/smaller_square/saara-makinen-castlevania-los-dracula-by-arsinoes-d6ecitz.jpg?1476111930",
+                "https://cdna.artstation.com/p/assets/images/images/000/123/290/20160905055216/smaller_square/saara-makinen-dark-elf-warrior-concept-3-by-arsinoes-d51bycj.jpg?1473072737",
+                "https://cdnb.artstation.com/p/assets/images/images/000/123/289/20161010100614/smaller_square/saara-makinen-dark-elf-mage-concept-by-arsinoes-d4zpyja.jpg?1476111974",
+                "https://cdnb.artstation.com/p/assets/images/images/000/122/307/20161010100845/smaller_square/saara-makinen-nomad-elf-concept-by-arsinoes-d54yo23.jpg?1476112125"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "arsinoes",
+            "username": "arsinoes"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "dc3f9a532e258aec53f2e3bc13084fc6.jpg",
+            "city": "Los Angeles",
+            "country": "United States",
+            "cover_file_name": "db23566cc0d5dba8a7f9c7c8b23a9508.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/001/523/small/db23566cc0d5dba8a7f9c7c8b23a9508.jpg",
+            "followed": false,
+            "followers_count": 41536,
+            "following_back": false,
+            "full_name": "Finnian MacManus",
+            "headline": "Creative Director, Founder @ Terraform Studios",
+            "id": 1523,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/001/523/large/dc3f9a532e258aec53f2e3bc13084fc6.jpg",
+            "location": "Los Angeles, United States",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/001/523/medium/dc3f9a532e258aec53f2e3bc13084fc6.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/covers/images/036/683/931/smaller_square/finnian-macmanus-finnian-macmanus-thumbsmaw.jpg?1618334477",
+                "https://cdna.artstation.com/p/assets/covers/images/036/105/758/smaller_square/finnian-macmanus-finnian-macmanus-logo2.jpg?1616730377",
+                "https://cdnb.artstation.com/p/assets/covers/images/035/990/093/smaller_square/finnian-macmanus-finnian-macmanus-untitled-1.jpg?1616444349",
+                "https://cdnb.artstation.com/p/assets/images/images/035/111/619/smaller_square/finnian-macmanus-a.jpg?1614125271",
+                "https://cdnb.artstation.com/p/assets/covers/images/035/238/847/smaller_square/finnian-macmanus-finnian-macmanus-thumbsn2.jpg?1614461672",
+                "https://cdna.artstation.com/p/assets/covers/images/035/144/382/smaller_square/finnian-macmanus-finnian-macmanus-thumbsn.jpg?1614201012"
+            ],
+            "skills": [
+                {
+                    "name": "Environment Design"
+                },
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Character Design"
+                },
+                {
+                    "name": "3D Modeling"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/011/default/MXN-C4Dredesign-badge.png?1478274620",
+                    "name": "Cinema 4D"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/045/default/VUE_X1_icon.png?1544038260",
+                    "name": "Vue"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/026/default/Modo.png?1424684349",
+                    "name": "Modo"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/020/default/ks5_desktop_icon_512.png?1425659937",
+                    "name": "Keyshot"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/037/default/sketchup.png?1424819106",
+                    "name": "SketchUp"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/059/451/default/otoy-octane-render-workstations-alt.png?1579683695",
+                    "name": "Octane Render"
+                }
+            ],
+            "subdomain": "fmacmanus",
+            "username": "fmacmanus"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "25d34b3bcf966aadf0d9e5e08fc2bc3e.jpg",
+            "city": "Florida",
+            "country": "United States",
+            "cover_file_name": "83017c31dad03acf1d51a711965fc36d.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/002/295/small/83017c31dad03acf1d51a711965fc36d.jpg",
+            "followed": false,
+            "followers_count": 47504,
+            "following_back": false,
+            "full_name": "Chun Lo",
+            "headline": "Illustrator &amp; Concept Artist   Contact: Chunloart@gmail.com",
+            "id": 2295,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/002/295/large/25d34b3bcf966aadf0d9e5e08fc2bc3e.jpg",
+            "location": "Florida, United States",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/002/295/medium/25d34b3bcf966aadf0d9e5e08fc2bc3e.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/032/782/896/smaller_square/chun-lo-spider-man-miles-morales-album-cover-final.jpg?1607454798",
+                "https://cdna.artstation.com/p/assets/images/images/028/665/468/smaller_square/chun-lo-avp-cover-issue-01-final-revised.jpg?1595152962",
+                "https://cdna.artstation.com/p/assets/images/images/025/706/886/smaller_square/chun-lo-cloud-materia-patreon.jpg?1586686085",
+                "https://cdnb.artstation.com/p/assets/images/images/024/014/895/smaller_square/chun-lo-01-spider-man-promo.jpg?1581035627",
+                "https://cdnb.artstation.com/p/assets/images/images/021/731/739/20191102224635/smaller_square/chun-lo-dismantle-patreon-01-alt.jpg?1572752795",
+                "https://cdnb.artstation.com/p/assets/images/images/017/680/617/smaller_square/chun-lo-stranger-things-cover.jpg?1556923280"
+            ],
+            "skills": [
+                {
+                    "name": "Matte Painting"
+                },
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Cartooning"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                }
+            ],
+            "subdomain": "chunlo",
+            "username": "chunlo"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "84eebaf6d9773cbde99f01d7daf6a1fa.jpg",
+            "city": "Taipei",
+            "country": "Taiwan",
+            "cover_file_name": "5a1f001c8b9513c6b8a6c0c35293c6f0.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/721/389/small/5a1f001c8b9513c6b8a6c0c35293c6f0.jpg",
+            "followed": false,
+            "followers_count": 21,
+            "following_back": false,
+            "full_name": "XAR LIIN",
+            "headline": "Digital Artist",
+            "id": 721389,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/721/389/large/84eebaf6d9773cbde99f01d7daf6a1fa.jpg",
+            "location": "Taipei, Taiwan",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/721/389/medium/84eebaf6d9773cbde99f01d7daf6a1fa.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/027/007/373/smaller_square/xar-liin-sailermoon.jpg?1590341479",
+                "https://cdna.artstation.com/p/assets/images/images/019/902/274/smaller_square/xar-liin-.jpg?1565510879",
+                "https://cdna.artstation.com/p/assets/images/images/013/285/894/20181007111055/smaller_square/xar-liin-neko-final.jpg?1538928656",
+                "https://cdnb.artstation.com/p/assets/images/images/012/172/075/20181019104508/smaller_square/xar-liin-rosalina.jpg?1539963910"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Character Design"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "xarliin",
+            "username": "xarliin"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "8bbe00dafaccc696c3ded66a1cbd37c2.jpg",
+            "city": "chengdu",
+            "country": "China",
+            "cover_file_name": "efc5bf2fa452f8efb7a2f6474fc42ee2.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/019/521/small/efc5bf2fa452f8efb7a2f6474fc42ee2.jpg",
+            "followed": false,
+            "followers_count": 8700,
+            "following_back": false,
+            "full_name": "luye liangshanzhonggong-\u8def\u91ce\u51c9\u5c71\u91cd\u5de5",
+            "headline": "Freelance Concept DesignerQQ\u7fa4:4453147email-178085117@qq.com",
+            "id": 19521,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/019/521/large/8bbe00dafaccc696c3ded66a1cbd37c2.jpg",
+            "location": "chengdu, China",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/019/521/medium/8bbe00dafaccc696c3ded66a1cbd37c2.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/037/531/618/smaller_square/luye-liangshanzhonggong-luye-liangshanzhonggong-55555.jpg?1620641744",
+                "https://cdna.artstation.com/p/assets/images/images/037/504/496/20210509083822/smaller_square/luye-liangshanzhonggong-1.jpg?1620567502",
+                "https://cdnb.artstation.com/p/assets/images/images/034/523/291/20210205031041/smaller_square/luye-liangshanzhonggong-quantao-11111.jpg?1612516242",
+                "https://cdnb.artstation.com/p/assets/images/images/027/794/285/20200619052720/smaller_square/luye-liangshanzhonggong-1-a.jpg?1592562441",
+                "https://cdnb.artstation.com/p/assets/images/images/016/334/963/20190305053513/smaller_square/luye-liangshanzhonggong-asset.jpg?1551785713",
+                "https://cdna.artstation.com/p/assets/images/images/027/596/282/20200612104316/smaller_square/luye-liangshanzhonggong-asset.jpg?1591976596"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "zhangluye",
+            "username": "zhangluye"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "7224966f86fe78bbae9ba04b69e8ac55.jpg",
+            "city": "St. Petersburg",
+            "country": "Russia",
+            "cover_file_name": "3273a082e496b41677f3b1e4ecb4b89d.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/011/722/small/3273a082e496b41677f3b1e4ecb4b89d.jpg",
+            "followed": false,
+            "followers_count": 36978,
+            "following_back": false,
+            "full_name": "Tatyana Kupriyanova",
+            "headline": " illustrator",
+            "id": 11722,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/011/722/large/7224966f86fe78bbae9ba04b69e8ac55.jpg",
+            "location": "St. Petersburg, Russia",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/011/722/medium/7224966f86fe78bbae9ba04b69e8ac55.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/095/282/20210426170955/smaller_square/tatyana-kupriyanova-mother.jpg?1619474995",
+                "https://cdna.artstation.com/p/assets/images/images/036/100/312/20210325174149/smaller_square/tatyana-kupriyanova-it.jpg?1616712109",
+                "https://cdna.artstation.com/p/assets/images/images/007/288/340/20170910163827/smaller_square/tatyana-latypova-4445.jpg?1505079507",
+                "https://cdnb.artstation.com/p/assets/images/images/005/566/105/20170412140126/smaller_square/tatyana-latypova-vampire4.jpg?1492023687",
+                "https://cdnb.artstation.com/p/assets/images/images/018/098/937/20190520113358/smaller_square/tatyana-kupriyanova-qween-of-cfdfsfreatures10.jpg?1558370038",
+                "https://cdnb.artstation.com/p/assets/images/images/003/965/265/20170118184253/smaller_square/cg_-sister-knight234567890.jpg?1484786575"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Sculpting"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/011/default/MXN-C4Dredesign-badge.png?1478274620",
+                    "name": "Cinema 4D"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/020/default/ks5_desktop_icon_512.png?1425659937",
+                    "name": "Keyshot"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/043/default/toolbag_512.png?1459433117",
+                    "name": "Marmoset Toolbag"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/056/default/marvelousdesigner.png?1424867194",
+                    "name": "Marvelous Designer"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/059/default/3d-coat_logo_ball.png?1511365214",
+                    "name": "3DCoat"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/172/default/Alchemy.png?1435152040",
+                    "name": "Alchemy"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/001/665/default/GeoGlyph_Logo_web.png?1483388163",
+                    "name": "GeoGlyph"
+                }
+            ],
+            "subdomain": "cg-sister",
+            "username": "cg-sister"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "fad2c4671301ce1c0778b4ea5b1b6cac.jpg",
+            "city": "Vancouver",
+            "country": "Canada",
+            "cover_file_name": "889fba1b8c01a1a23712233af6ee9419.png",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/800/497/small/889fba1b8c01a1a23712233af6ee9419.jpg",
+            "followed": false,
+            "followers_count": 3444,
+            "following_back": false,
+            "full_name": "Sephine Kuan Cruz",
+            "headline": "Senior Environment artist",
+            "id": 800497,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/800/497/large/fad2c4671301ce1c0778b4ea5b1b6cac.jpg",
+            "location": "Vancouver, Canada",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/800/497/medium/fad2c4671301ce1c0778b4ea5b1b6cac.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/016/975/446/smaller_square/sephine-kuan-cruz-hallway-01.jpg?1554185335",
+                "https://cdnb.artstation.com/p/assets/images/images/016/975/093/smaller_square/sephine-kuan-cruz-detail-02.jpg?1554183556",
+                "https://cdna.artstation.com/p/assets/images/images/013/897/946/smaller_square/sephine-cruz-screenshot00070-a.jpg?1541569112",
+                "https://cdnb.artstation.com/p/assets/images/images/013/897/811/smaller_square/sephine-cruz-abandoned-court-38.jpg?1541568648",
+                "https://cdnb.artstation.com/p/assets/images/images/013/897/487/smaller_square/sephine-cruz-abandoned-court-40.jpg?1541566876"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "sephine_cruz",
+            "username": "sephine_cruz"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "e06a57cfe3a4e987cea3ea1856710fa3.png",
+            "city": "Moscow",
+            "country": "Russia",
+            "cover_file_name": "e0af6d4db60d74d3662e30e212aafd31.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/247/476/small/e0af6d4db60d74d3662e30e212aafd31.jpg",
+            "followed": false,
+            "followers_count": 4018,
+            "following_back": false,
+            "full_name": "Tatiana Korshunova",
+            "headline": "2D",
+            "id": 247476,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/247/476/large/e06a57cfe3a4e987cea3ea1856710fa3.jpg",
+            "location": "Moscow, Russia",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/247/476/medium/e06a57cfe3a4e987cea3ea1856710fa3.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/036/540/480/smaller_square/tatiana-korshunova-tatiana-korshunova.jpg?1617924490",
+                "https://cdnb.artstation.com/p/assets/images/images/003/909/701/20161106130901/smaller_square/tatiana-korshunova-.jpg?1478459341",
+                "https://cdna.artstation.com/p/assets/images/images/007/130/230/20170828054100/smaller_square/tatiana-korshunova-sssee.jpg?1503916861",
+                "https://cdna.artstation.com/p/assets/covers/images/014/182/670/20181121155807/smaller_square/tatiana-korshunova-.jpg?1542837487",
+                "https://cdnb.artstation.com/p/assets/images/images/014/180/163/20181121131715/smaller_square/tatiana-korshunova-ost.jpg?1542827835",
+                "https://cdna.artstation.com/p/assets/images/images/003/032/438/20160717101709/smaller_square/tatiana-korshunova-.jpg?1468768629"
+            ],
+            "skills": [],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "vezde_odinakovo",
+            "username": "vezde_odinakovo"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "412be401f8cf4a299cd9449eb98541ee.jpg",
+            "city": "Taipei",
+            "country": "Taiwan",
+            "cover_file_name": "b0fd96f9bb46e7db70fb02049bd80132.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/003/816/small/b0fd96f9bb46e7db70fb02049bd80132.jpg",
+            "followed": false,
+            "followers_count": 1611,
+            "following_back": false,
+            "full_name": "Jack Hsu",
+            "headline": "concept artist / Illustrator",
+            "id": 3816,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/003/816/large/412be401f8cf4a299cd9449eb98541ee.jpg",
+            "location": "Taipei, Taiwan",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/003/816/medium/412be401f8cf4a299cd9449eb98541ee.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/505/146/smaller_square/jack-hsu-210509-nidalee-sketch-02.jpg?1620568729",
+                "https://cdna.artstation.com/p/assets/images/images/035/014/146/20210220205012/smaller_square/jack-hsu-210221.jpg?1613875812",
+                "https://cdna.artstation.com/p/assets/images/images/022/918/706/20200125213656/smaller_square/jack-hsu-191225.jpg?1580009817",
+                "https://cdnb.artstation.com/p/assets/images/images/012/758/003/20180907141814/smaller_square/jack-hsu-180908.jpg?1536347894",
+                "https://cdnb.artstation.com/p/assets/images/images/010/739/687/smaller_square/jack-hsu-180510.jpg?1525967056",
+                "https://cdna.artstation.com/p/assets/images/images/007/271/496/smaller_square/jack-hsu-170909.jpg?1504944218"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Environment Design"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Character Design"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "jack_hsu",
+            "username": "jack_hsu"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "43ab8a3db8ffed3b4ea3f7894bc56b20.jpg",
+            "city": "Newcastle upon Tyne",
+            "country": "United Kingdom",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 10300,
+            "following_back": false,
+            "full_name": "Vladyslava Hladkova",
+            "headline": "Senior concept artist | rrraw.hide@gmail.com",
+            "id": 45288,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/045/288/large/43ab8a3db8ffed3b4ea3f7894bc56b20.jpg",
+            "location": "Newcastle upon Tyne, United Kingdom",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/045/288/medium/43ab8a3db8ffed3b4ea3f7894bc56b20.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/031/306/347/20201020161552/smaller_square/vladyslava-hladkova-orpheus-final-01.jpg?1603228552",
+                "https://cdna.artstation.com/p/assets/images/images/030/621/136/20200926153412/smaller_square/vladyslava-hladkova-metro1.jpg?1601152453",
+                "https://cdna.artstation.com/p/assets/images/images/022/767/828/20191217150334/smaller_square/vladyslava-hladkova-grand-central.jpg?1576616615",
+                "https://cdna.artstation.com/p/assets/covers/images/020/014/732/smaller_square/vladyslava-hladkova-mk11crop.jpg?1565977735",
+                "https://cdna.artstation.com/p/assets/covers/images/019/975/102/smaller_square/vladyslava-hladkova-crop.jpg?1565811060",
+                "https://cdna.artstation.com/p/assets/images/images/011/820/216/20180714103941/smaller_square/vladyslava-hladkova-wayfaring-stranger.jpg?1531582782"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Character Design"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                }
+            ],
+            "subdomain": "rawhide",
+            "username": "rawhide"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "72781ed4d0bb5bcd8927c2121ca7811f.png",
+            "city": "Shenzhen",
+            "country": "China",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 4519,
+            "following_back": false,
+            "full_name": "\u8aa0\u2122 HC",
+            "headline": "Avatar/Profile Picture - this gets cropped into a square",
+            "id": 153218,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/153/218/large/72781ed4d0bb5bcd8927c2121ca7811f.jpg",
+            "location": "Shenzhen, China",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/153/218/medium/72781ed4d0bb5bcd8927c2121ca7811f.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/007/452/765/smaller_square/hc-808.jpg?1506254586",
+                "https://cdnb.artstation.com/p/assets/images/images/007/452/591/smaller_square/hc-808-2.jpg?1506252951",
+                "https://cdna.artstation.com/p/assets/images/images/005/530/442/smaller_square/hc-w345.jpg?1491746019",
+                "https://cdna.artstation.com/p/assets/images/images/005/453/492/smaller_square/hc-1.jpg?1491144729",
+                "https://cdnb.artstation.com/p/assets/images/images/005/139/283/smaller_square/hc-e754d734-cec4-4bda-a657-c335dacc6ce0.jpg?1488781213",
+                "https://cdnb.artstation.com/p/assets/images/images/005/059/063/smaller_square/hc-2.jpg?1488209208"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "huangcheng",
+            "username": "huangcheng"
+        }
+    ],
+    "total_count": 825
+}

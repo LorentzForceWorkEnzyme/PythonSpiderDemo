@@ -1,0 +1,1184 @@
+{
+    "data": [
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "83c36d85357f9bf6f72dc54f98bf2d50.jpg",
+            "city": "Bor\u00e5s",
+            "country": "Sweden",
+            "cover_file_name": "9c6b6fe9983fdc5a064e9d215d2588ac.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/000/454/small/9c6b6fe9983fdc5a064e9d215d2588ac.jpg",
+            "followed": false,
+            "followers_count": 13264,
+            "following_back": false,
+            "full_name": "Dennis Chan ",
+            "headline": "Freelance Concept Artist",
+            "id": 454,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/454/large/83c36d85357f9bf6f72dc54f98bf2d50.jpg",
+            "location": "Bor\u00e5s, Sweden",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/454/medium/83c36d85357f9bf6f72dc54f98bf2d50.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/covers/images/014/173/384/smaller_square/dennis-chan-norman-tortured-concpet-final-v01-thumb.jpg?1542803346",
+                "https://cdna.artstation.com/p/assets/covers/images/014/138/342/smaller_square/dennis-chan-miles-apartment-concept-final-thumb.jpg?1542648132",
+                "https://cdnb.artstation.com/p/assets/covers/images/013/891/719/smaller_square/dennis-chan-evilotto-concept-final-thumb.jpg?1541538579",
+                "https://cdnb.artstation.com/p/assets/covers/images/013/638/923/smaller_square/dennis-chan-action-concept-thumbs.jpg?1540515183",
+                "https://cdnb.artstation.com/p/assets/covers/images/013/624/863/smaller_square/dennis-chan-ottos-lab-concept-thumb.jpg?1540455875",
+                "https://cdna.artstation.com/p/assets/covers/images/013/607/348/smaller_square/dennis-chan-stateofwar-concept-thumbs.jpg?1540382612"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "dennis_chan",
+            "username": "dennis_chan"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "4cf010f2fd5f25355a036e64d7c5ba4b.jpg",
+            "city": "-",
+            "country": "South Korea",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 5700,
+            "following_back": false,
+            "full_name": "Minkyu Lee ",
+            "headline": "character designer , loooser116@gmail.com",
+            "id": 722047,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/722/047/large/4cf010f2fd5f25355a036e64d7c5ba4b.jpg",
+            "location": "-, South Korea",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/722/047/medium/4cf010f2fd5f25355a036e64d7c5ba4b.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/242/190/smaller_square/minkyu-lee-12.jpg?1619868781",
+                "https://cdnb.artstation.com/p/assets/images/images/037/498/477/20210509041341/smaller_square/minkyu-lee-14-2.jpg?1620551621",
+                "https://cdna.artstation.com/p/assets/images/images/034/810/494/20210214071902/smaller_square/minkyu-lee-9-4.jpg?1613308742",
+                "https://cdnb.artstation.com/p/assets/images/images/033/391/703/smaller_square/minkyu-lee-201227-4.jpg?1609426335",
+                "https://cdna.artstation.com/p/assets/images/images/032/916/666/20201213095738/smaller_square/minkyu-lee-201213.jpg?1607875059",
+                "https://cdnb.artstation.com/p/assets/images/images/031/929/487/20201110053117/smaller_square/minkyu-lee-13.jpg?1605007881"
+            ],
+            "skills": [
+                {
+                    "name": "Character Design"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "loooser",
+            "username": "loooser"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "99f23441b1fb5b5e7f98b34286e8bf50.jpg",
+            "city": "HUNTINGTON BEACH",
+            "country": "United States",
+            "cover_file_name": "2cdc6ed2af18044833dc76bf8bf45bcf.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/472/074/small/2cdc6ed2af18044833dc76bf8bf45bcf.jpg",
+            "followed": false,
+            "followers_count": 611,
+            "following_back": false,
+            "full_name": "Joao Felipe De Martini",
+            "headline": "3d Artist/Concept Designer",
+            "id": 472074,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/472/074/large/99f23441b1fb5b5e7f98b34286e8bf50.jpg",
+            "location": "HUNTINGTON BEACH, United States",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/472/074/medium/99f23441b1fb5b5e7f98b34286e8bf50.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/192/974/20210429152048/smaller_square/joao-felipe-de-martini-scene-front-002-small.jpg?1619727648",
+                "https://cdna.artstation.com/p/assets/images/images/020/562/332/smaller_square/joao-felipe-de-martini-ba-flamethrowermb-v001-001.jpg?1568253544",
+                "https://cdnb.artstation.com/p/assets/covers/images/009/015/069/smaller_square/joao-de-martini-handdisassembling-v02.jpg?1516648921",
+                "https://cdna.artstation.com/p/assets/images/images/034/181/832/smaller_square/joao-felipe-de-martini-nashtribfront01-small.jpg?1611618252",
+                "https://cdnb.artstation.com/p/assets/covers/images/029/905/035/smaller_square/joao-felipe-de-martini-joao-felipe-de-martini-leginaction.jpg?1598987877",
+                "https://cdnb.artstation.com/p/assets/images/images/015/615/269/smaller_square/joao-felipe-de-martini-image-v01.jpg?1548970274"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "3D Visualization"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/013/default/DAZ_Studio.png?1424684345",
+                    "name": "DAZ Studio"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/016/default/fusion360.png?1504818877",
+                    "name": "Fusion 360"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/056/default/marvelousdesigner.png?1424867194",
+                    "name": "Marvelous Designer"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/071/default/V-Ray_ball_wht.png?1456319218",
+                    "name": "V-Ray"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/001/792/default/Moi3d.png?1505831766",
+                    "name": "MoI3D"
+                }
+            ],
+            "subdomain": "joaodemartini1",
+            "username": "joaodemartini1"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "5f242397e3eff11c6f856701a7f74779.jpg",
+            "city": "pyeong taek",
+            "country": "South Korea",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 2955,
+            "following_back": false,
+            "full_name": "Ndoor (Nam, hyeon gwan)",
+            "headline": "concept artist",
+            "id": 24714,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/024/714/large/5f242397e3eff11c6f856701a7f74779.jpg",
+            "location": "pyeong taek, South Korea",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/024/714/medium/5f242397e3eff11c6f856701a7f74779.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/302/402/smaller_square/ndoor-nam-hyeon-gwan-016-1.jpg?1620046206",
+                "https://cdna.artstation.com/p/assets/covers/images/037/023/420/smaller_square/ndoor-nam-hyeon-gwan-ndoor-nam-hyeon-gwan-1-022.jpg?1619269092",
+                "https://cdna.artstation.com/p/assets/images/images/035/280/244/20210301013130/smaller_square/ndoor-nam-hyeon-gwan-20210301.jpg?1614583890",
+                "https://cdna.artstation.com/p/assets/images/images/031/049/420/smaller_square/ndoor-nam-hyeon-gwan-kakaotalk-20200526-014408221-08.jpg?1602445992",
+                "https://cdnb.artstation.com/p/assets/images/images/030/658/987/20200928035052/smaller_square/ndoor-nam-hyeon-gwan-031.jpg?1601283052",
+                "https://cdnb.artstation.com/p/assets/covers/images/029/093/129/smaller_square/ndoor-nam-hyeon-gwan-009-2.jpg?1596447454"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "photoshop"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "ndoor_art",
+            "username": "ndoor_art"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "3bb29fd7cba97fc9f92bcfc90cb8c212.jpg",
+            "city": "guangzhou",
+            "country": "China",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 130,
+            "following_back": false,
+            "full_name": "ling J",
+            "headline": "Just Draw",
+            "id": 112635,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/112/635/large/3bb29fd7cba97fc9f92bcfc90cb8c212.jpg",
+            "location": "guangzhou, China",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/112/635/medium/3bb29fd7cba97fc9f92bcfc90cb8c212.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/033/272/765/20201228142340/smaller_square/ling-j-20201227gai.jpg?1609187021",
+                "https://cdna.artstation.com/p/assets/images/images/033/320/096/20201228142124/smaller_square/ling-j-1229.jpg?1609186884",
+                "https://cdnb.artstation.com/p/assets/images/images/026/855/405/20200519131832/smaller_square/ling-j-3.jpg?1589912312",
+                "https://cdna.artstation.com/p/assets/images/images/029/961/180/20200903125125/smaller_square/ling-j-20200903.jpg?1599155485",
+                "https://cdnb.artstation.com/p/assets/images/images/020/470/867/smaller_square/ling-j-.jpg?1567896379",
+                "https://cdnb.artstation.com/p/assets/images/images/015/897/207/smaller_square/ling-j-changshi.jpg?1550083438"
+            ],
+            "skills": [
+                {
+                    "name": "sketch"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/020/default/ks5_desktop_icon_512.png?1425659937",
+                    "name": "Keyshot"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "tlj",
+            "username": "tlj"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "bee1ae69326259b336705ae358b7715a.jpg",
+            "city": "redmond",
+            "country": "United States",
+            "cover_file_name": "18251b34cd61b3d3ec5ab8a6e09cbbcf.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/035/525/small/18251b34cd61b3d3ec5ab8a6e09cbbcf.jpg",
+            "followed": false,
+            "followers_count": 5396,
+            "following_back": false,
+            "full_name": "John powell",
+            "headline": "Senior Concept artist at Sucker Punch Productions",
+            "id": 35525,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/035/525/large/bee1ae69326259b336705ae358b7715a.jpg",
+            "location": "redmond, United States",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/035/525/medium/bee1ae69326259b336705ae358b7715a.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/036/689/499/20210413151630/smaller_square/john-powell-black-and-white1e.jpg?1618344990",
+                "https://cdnb.artstation.com/p/assets/images/images/036/153/795/smaller_square/john-powell-demo2.jpg?1616868810",
+                "https://cdnb.artstation.com/p/assets/images/images/034/988/499/20210219195757/smaller_square/john-powell-demo-1-4k.jpg?1613786278",
+                "https://cdna.artstation.com/p/assets/covers/images/033/574/788/smaller_square/john-powell-john-powell-thumbnail-legends.jpg?1609983263",
+                "https://cdnb.artstation.com/p/assets/images/images/033/575/123/smaller_square/john-powell-knight-light-4k.jpg?1609984584",
+                "https://cdna.artstation.com/p/assets/covers/images/029/333/228/smaller_square/john-powell-john-powell-1.jpg?1597197836"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "johnpowell",
+            "username": "johnpowell"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "268526fe23912199e82dba9301470d05.jpg",
+            "city": "\ud83c\udf0e S\u00e3o Paulo",
+            "country": "Brazil",
+            "cover_file_name": "8f569b0b36f2df73bc1c6afcc8e07082.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/113/260/small/8f569b0b36f2df73bc1c6afcc8e07082.jpg",
+            "followed": false,
+            "followers_count": 5889,
+            "following_back": false,
+            "full_name": "Eduard Oliver",
+            "headline": "\ud83c\udfa8 Freelance Character Artist |\ud83d\udce7 eduardoliver.art@gmail.com",
+            "id": 113260,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/113/260/large/268526fe23912199e82dba9301470d05.jpg",
+            "location": "\ud83c\udf0e S\u00e3o Paulo, Brazil",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/113/260/medium/268526fe23912199e82dba9301470d05.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/035/877/691/smaller_square/eduard-oliver-eduardoliver-dh-01.jpg?1616131541",
+                "https://cdna.artstation.com/p/assets/images/images/035/874/046/20210318203047/smaller_square/eduard-oliver-skullmetal-eduardoliver-02.jpg?1616117447",
+                "https://cdnb.artstation.com/p/assets/images/images/036/027/487/20210323162747/smaller_square/eduard-oliver-eduardoliver-heimer02.jpg?1616534867",
+                "https://cdnb.artstation.com/p/assets/images/images/030/070/253/20200907160325/smaller_square/eduard-oliver-eduardoliver-fiddle01.jpg?1599512605",
+                "https://cdna.artstation.com/p/assets/images/images/029/873/618/smaller_square/eduard-oliver-eduardoliver-amumua01.jpg?1598899407",
+                "https://cdnb.artstation.com/p/assets/images/images/029/516/333/smaller_square/eduard-oliver-eduardoliver-timeman05.jpg?1597798788"
+            ],
+            "skills": [
+                {
+                    "name": "Character Modeling"
+                },
+                {
+                    "name": "Texturing"
+                },
+                {
+                    "name": "Shading"
+                },
+                {
+                    "name": "Rendering"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Hard Surface Modeling"
+                },
+                {
+                    "name": "Lighting"
+                },
+                {
+                    "name": "Low-poly Modeling"
+                },
+                {
+                    "name": "Retopology"
+                },
+                {
+                    "name": "Shaders"
+                },
+                {
+                    "name": "Sketching"
+                },
+                {
+                    "name": "Texture Baking"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/027/default/mudbox.png?1504879413",
+                    "name": "Mudbox"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/066/default/xnormal.png?1509114280",
+                    "name": "xNormal"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/071/default/V-Ray_ball_wht.png?1456319218",
+                    "name": "V-Ray"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                }
+            ],
+            "subdomain": "eduardoliver",
+            "username": "eduardoliver"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "c43efc7737d4d4f2dc4d1d5efe2529ee.jpeg",
+            "city": "Shanghai",
+            "country": "China",
+            "cover_file_name": "dfafc49c6961df024ef97cefde7d0f36.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/208/493/small/dfafc49c6961df024ef97cefde7d0f36.jpg",
+            "followed": false,
+            "followers_count": 1094,
+            "following_back": false,
+            "full_name": "Bingjian Huang",
+            "headline": "painting",
+            "id": 208493,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/208/493/large/c43efc7737d4d4f2dc4d1d5efe2529ee.jpg",
+            "location": "Shanghai, China",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/208/493/medium/c43efc7737d4d4f2dc4d1d5efe2529ee.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/023/104/114/smaller_square/bingjian-huang-dsc-0360.jpg?1578096565",
+                "https://cdna.artstation.com/p/assets/images/images/004/985/156/smaller_square/bingjian-huang-dianyan.jpg?1487672651",
+                "https://cdna.artstation.com/p/assets/images/images/004/261/540/20161215071525/smaller_square/bingjian-huang-wqwqwq.jpg?1481807725",
+                "https://cdna.artstation.com/p/assets/images/images/003/624/686/smaller_square/bingjian-huang-.jpg?1475729618",
+                "https://cdnb.artstation.com/p/assets/images/images/003/075/425/smaller_square/bingjian-huang-.jpg?1469362319",
+                "https://cdnb.artstation.com/p/assets/images/images/002/923/521/smaller_square/bingjian-huang-.jpg?1467312244"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "dyinginthesun",
+            "username": "dyinginthesun"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "aebbadc8c47c21b74c0c5fc53cac3175.jpg",
+            "city": "Yekaterinburg",
+            "country": "Russia",
+            "cover_file_name": "cac436fe3987abd4542cb69937ed8d49.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/220/798/small/cac436fe3987abd4542cb69937ed8d49.jpg",
+            "followed": false,
+            "followers_count": 751,
+            "following_back": false,
+            "full_name": "Anton Churunov",
+            "headline": "Freelance artist ",
+            "id": 220798,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/220/798/large/aebbadc8c47c21b74c0c5fc53cac3175.jpg",
+            "location": "Yekaterinburg, Russia",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/220/798/medium/aebbadc8c47c21b74c0c5fc53cac3175.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/002/881/971/smaller_square/anton-churunov-4-18-dop-2.jpg?1466796973",
+                "https://cdna.artstation.com/p/assets/images/images/002/723/266/smaller_square/anton-churunov-16-8-dop-2.jpg?1464970639",
+                "https://cdnb.artstation.com/p/assets/images/images/002/679/221/20160528134048/smaller_square/anton-churunov-3-20-dop-7.jpg?1464460849"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "danmrak",
+            "username": "danmrak"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "de451801b5089ae8dbdf40ebccc05c99.jpg",
+            "city": "Los Angeles, California",
+            "country": "United States",
+            "cover_file_name": "e03db3ed50da389941a0be10699adc84.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/000/062/small/e03db3ed50da389941a0be10699adc84.jpg",
+            "followed": false,
+            "followers_count": 22684,
+            "following_back": false,
+            "full_name": "Jonathan Berube",
+            "headline": "Director | Senior Art Director",
+            "id": 62,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/062/large/de451801b5089ae8dbdf40ebccc05c99.jpg",
+            "location": "Los Angeles, California, United States",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/062/medium/de451801b5089ae8dbdf40ebccc05c99.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/034/512/031/smaller_square/jonathan-berube-jonathan-berube-star-wars-029-v01.jpg?1612476673",
+                "https://cdnb.artstation.com/p/assets/images/images/034/477/641/20210203151829/smaller_square/jonathan-berube-jonathan-berube-star-wars-028-v01.jpg?1612387110",
+                "https://cdnb.artstation.com/p/assets/images/images/034/290/157/smaller_square/jonathan-berube-jonathan-berube-star-wars-027-v02.jpg?1611906446",
+                "https://cdna.artstation.com/p/assets/images/images/034/212/400/20210126152455/smaller_square/jonathan-berube-jonathan-berube-star-wars-026-v01.jpg?1611696295",
+                "https://cdna.artstation.com/p/assets/images/images/034/175/926/20210125140055/smaller_square/jonathan-berube-jonathan-berube-star-wars-025-v01-copy.jpg?1611604856",
+                "https://cdnb.artstation.com/p/assets/images/images/034/150/841/20210124215011/smaller_square/jonathan-berube-jonathan-berube-star-wars-024-v01.jpg?1611546612"
+            ],
+            "skills": [
+                {
+                    "name": "Art Direction"
+                },
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Matte Painting"
+                },
+                {
+                    "name": "directing"
+                }
+            ],
+            "software_items": [],
+            "subdomain": "berube",
+            "username": "berube"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "dbb2d6637467de082ef85e21c73f89db.jpg",
+            "city": "Cologne",
+            "country": "Germany",
+            "cover_file_name": "4e3573f7bdef80eece039adc5db0a8c0.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/015/822/small/4e3573f7bdef80eece039adc5db0a8c0.jpg",
+            "followed": false,
+            "followers_count": 5149,
+            "following_back": false,
+            "full_name": "Mariusz Becker",
+            "headline": "3D-Artist, Photographer",
+            "id": 15822,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/015/822/large/dbb2d6637467de082ef85e21c73f89db.jpg",
+            "location": "Cologne, Germany",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/015/822/medium/dbb2d6637467de082ef85e21c73f89db.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/022/369/226/smaller_square/mariusz-becker-for-web-04-2.jpg?1575200327",
+                "https://cdna.artstation.com/p/assets/covers/images/019/150/436/smaller_square/mariusz-becker-i-2k-v02.jpg?1562227517",
+                "https://cdna.artstation.com/p/assets/images/images/017/934/980/smaller_square/mariusz-becker-img-0095.jpg?1557910728",
+                "https://cdna.artstation.com/p/assets/images/images/017/268/986/smaller_square/mariusz-becker-img-9910.jpg?1555313245",
+                "https://cdnb.artstation.com/p/assets/images/images/017/211/857/smaller_square/mariusz-becker-img-9142.jpg?1555061826",
+                "https://cdnb.artstation.com/p/assets/images/images/017/164/993/20190410045705/smaller_square/mariusz-becker-c407f7de-0e3f-4694-8fee-c99911b5cba8.jpg?1554890225"
+            ],
+            "skills": [
+                {
+                    "name": "3D Visualization"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/011/default/MXN-C4Dredesign-badge.png?1478274620",
+                    "name": "Cinema 4D"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/019/default/illustrator.png?1608143969",
+                    "name": "Illustrator"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/064/default/Indesign.png?1608144124",
+                    "name": "InDesign"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/125/default/premiere-pro.png?1608144421",
+                    "name": "Premiere"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/767/default/maxwellrender.png?1435047301",
+                    "name": "Maxwell Render"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/001/014/default/redshift-logo-notext-400px.png?1438876547",
+                    "name": "Redshift"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/059/451/default/otoy-octane-render-workstations-alt.png?1579683695",
+                    "name": "Octane Render"
+                }
+            ],
+            "subdomain": "mariuszbecker",
+            "username": "mariuszbecker"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "89071db2152ea2eb5a7c2cd38465d3cc.jpg",
+            "city": "Rennes",
+            "country": "France",
+            "cover_file_name": "91946b28cfe96a68f6fa3f73c884aef2.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/049/435/small/91946b28cfe96a68f6fa3f73c884aef2.jpg",
+            "followed": false,
+            "followers_count": 30104,
+            "following_back": false,
+            "full_name": "DOFRESH .",
+            "headline": "Freelance Concept artist / Illustrator",
+            "id": 49435,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/049/435/large/89071db2152ea2eb5a7c2cd38465d3cc.jpg",
+            "location": "Rennes, France",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/049/435/medium/89071db2152ea2eb5a7c2cd38465d3cc.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/248/464/smaller_square/dofresh-marchofrobots-2021-04-small.jpg?1619884157",
+                "https://cdna.artstation.com/p/assets/images/images/037/042/646/smaller_square/dofresh-marchofrobots-2021-03.jpg?1619332731",
+                "https://cdnb.artstation.com/p/assets/images/images/035/569/781/20210309111437/smaller_square/dofresh-marchofrobots-2021-02-medium.jpg?1615310078",
+                "https://cdnb.artstation.com/p/assets/images/images/035/324/503/20210302053210/smaller_square/dofresh-marchofrobots-2021-01.jpg?1614684730",
+                "https://cdnb.artstation.com/p/assets/images/images/034/687/757/20210210041439/smaller_square/dofresh-lancer-battleground-halfsize.jpg?1612952079",
+                "https://cdna.artstation.com/p/assets/images/images/034/538/024/20210221122253/smaller_square/dofresh-jet-wip05-def-halfsize.jpg?1613931773"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Visual Development"
+                },
+                {
+                    "name": "Scientific Illustration"
+                },
+                {
+                    "name": "Book Cover Illustration"
+                },
+                {
+                    "name": "Keyframe"
+                },
+                {
+                    "name": "color key"
+                },
+                {
+                    "name": "scifi"
+                },
+                {
+                    "name": "keyframe art"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/060/default/worldmachine.png?1435048767",
+                    "name": "World Machine"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/071/default/V-Ray_ball_wht.png?1456319218",
+                    "name": "V-Ray"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/003/default/aftereffects.png?1608144443",
+                    "name": "After Effects"
+                }
+            ],
+            "subdomain": "dofresh",
+            "username": "dofresh"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "9f346114ef7855782a9e1d816b90280e.jpg",
+            "city": "Shanghai",
+            "country": "China",
+            "cover_file_name": "84c30dbb1457cbb35e32858f27e9aeca.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/010/330/small/84c30dbb1457cbb35e32858f27e9aeca.jpg",
+            "followed": false,
+            "followers_count": 65358,
+            "following_back": false,
+            "full_name": "Zhelong Xu",
+            "headline": "Digital Artisan:) \u6c11\u95f4\u827a\u4eba\u5149\u53d4",
+            "id": 10330,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/010/330/large/9f346114ef7855782a9e1d816b90280e.jpg",
+            "location": "Shanghai, China",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/010/330/medium/9f346114ef7855782a9e1d816b90280e.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/037/363/790/20210505074356/smaller_square/zhelong-xu-51158910848-37073ce094-k.jpg?1620218637",
+                "https://cdna.artstation.com/p/assets/images/images/036/882/158/20210419215716/smaller_square/zhelong-xu-dsc07273.jpg?1618887436",
+                "https://cdna.artstation.com/p/assets/images/images/035/016/618/smaller_square/zhelong-xu-002-exposure.jpg?1613887840",
+                "https://cdnb.artstation.com/p/assets/images/images/034/161/617/smaller_square/zhelong-xu-002-ex.jpg?1611578159",
+                "https://cdnb.artstation.com/p/assets/images/images/034/188/303/20210126004721/smaller_square/zhelong-xu-chanweb1.jpg?1611643641",
+                "https://cdna.artstation.com/p/assets/covers/images/033/457/946/smaller_square/zhelong-xu-zhelong-xu-mo06.jpg?1609683359"
+            ],
+            "skills": [
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Rendering"
+                },
+                {
+                    "name": "Creature Modeling"
+                },
+                {
+                    "name": "Digital Sculpting"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/020/default/ks5_desktop_icon_512.png?1425659937",
+                    "name": "Keyshot"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/071/default/V-Ray_ball_wht.png?1456319218",
+                    "name": "V-Ray"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/002/default/3dsmax-20172.png?1504815710",
+                    "name": "3ds Max"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/005/default/ArtRage.png?1424684343",
+                    "name": "ArtRage"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/145/default/Arnold_A-01.png?1560180195",
+                    "name": "Arnold"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/008/138/default/substance-source.png?1586879350",
+                    "name": "Substance Source"
+                },
+                {
+                    "icon_url": "https://cdn.artstation.com/static_media/placeholders/software/default.png",
+                    "name": "Iray"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/008/default/blender_icon_1024x1024.png?1570478232",
+                    "name": "Blender"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+                    "name": "Procreate"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/009/055/default/Expresii_Rounded_Corner_Icon_128x128v2.png?1580229977",
+                    "name": "Expresii"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/032/014/default/forger_icon_2019.png?1558113988",
+                    "name": "forger"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/126/282/default/Nomad_Sculpt.png?1603766021",
+                    "name": "Nomad Sculpt"
+                }
+            ],
+            "subdomain": "zhelong",
+            "username": "zhelong"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": true,
+            "avatar_file_name": "9be805ecebcb7170edfd637f93bf29cf.jpg",
+            "city": "lviv",
+            "country": "Ukraine",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 28095,
+            "following_back": false,
+            "full_name": "Taras Susak",
+            "headline": "2D artist",
+            "id": 97319,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/097/319/large/9be805ecebcb7170edfd637f93bf29cf.jpg",
+            "location": "lviv, Ukraine",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/097/319/medium/9be805ecebcb7170edfd637f93bf29cf.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/036/309/607/smaller_square/taras-susak-sss2.jpg?1617296443",
+                "https://cdnb.artstation.com/p/assets/images/images/035/825/323/20210317105039/smaller_square/taras-susak-piano6.jpg?1615996240",
+                "https://cdna.artstation.com/p/assets/images/images/035/249/914/smaller_square/taras-susak-guard.jpg?1614506254",
+                "https://cdnb.artstation.com/p/assets/images/images/033/260/117/20201226012524/smaller_square/taras-susak-white-3.jpg?1608967524",
+                "https://cdnb.artstation.com/p/assets/images/images/032/531/083/20201130054413/smaller_square/taras-susak-aaaaq.jpg?1606736653",
+                "https://cdna.artstation.com/p/assets/images/images/031/601/576/20201030114451/smaller_square/taras-susak-sww.jpg?1604076291"
+            ],
+            "skills": [
+                {
+                    "name": "Digital Painting"
+                },
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Traditional Art"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "sustarik",
+            "username": "sustarik"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "dfd58744fcaf6cb3ed8c148ac01e0bd8.jpg",
+            "city": "Los Angeles",
+            "country": "",
+            "cover_file_name": "8b9f08c5f53ea8b9e4b16bf6a4432e06.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/004/338/small/8b9f08c5f53ea8b9e4b16bf6a4432e06.jpg",
+            "followed": false,
+            "followers_count": 12365,
+            "following_back": false,
+            "full_name": "Scribble Pad Studios",
+            "headline": "Concept Design Studio",
+            "id": 4338,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/004/338/large/dfd58744fcaf6cb3ed8c148ac01e0bd8.jpg",
+            "location": "Los Angeles, ",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/004/338/medium/dfd58744fcaf6cb3ed8c148ac01e0bd8.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/037/468/487/20210508005825/smaller_square/scribble-px-studios-james-paick-blur-dp-salvageyard-sketch-002d-layered.jpg?1620453505",
+                "https://cdna.artstation.com/p/assets/images/images/037/437/512/smaller_square/scribble-px-studios-james-paick-blur-dp-112514-shot-3-final.jpg?1620366604",
+                "https://cdnb.artstation.com/p/assets/images/images/037/400/591/20210505233346/smaller_square/scribble-px-studios-james-paick-blur-dp-112514-shot-5-final.jpg?1620275627",
+                "https://cdna.artstation.com/p/assets/images/images/037/365/986/smaller_square/scribble-px-studios-james-paick-blur-wham-colossusrunning-thumb-03a-jl-jp-002.jpg?1620194046",
+                "https://cdnb.artstation.com/p/assets/images/images/037/326/971/20210503232107/smaller_square/scribble-px-studios-blur-wham-damaged-ship-final-5b.jpg?1620102067",
+                "https://cdnb.artstation.com/p/assets/images/images/037/236/357/20210501005420/smaller_square/scribble-px-studios-ww2-soldiers-038-copy.jpg?1619848461"
+            ],
+            "skills": [
+                {
+                    "name": "character design"
+                },
+                {
+                    "name": "creature design"
+                },
+                {
+                    "name": "vehicle"
+                },
+                {
+                    "name": "key frame art"
+                },
+                {
+                    "name": "Environment Design"
+                },
+                {
+                    "name": "Prop Design"
+                },
+                {
+                    "name": "photoshop"
+                },
+                {
+                    "name": "Weapon Design"
+                },
+                {
+                    "name": "concept art"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdn.artstation.com/static_media/placeholders/software/default.png",
+                    "name": "3d"
+                }
+            ],
+            "subdomain": "scribble-pad-studios",
+            "username": "scribble-pad-studios"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "c4eb325118f3543f52e2af4d9ab737ee.jpg",
+            "city": "Edinburgh",
+            "country": "United Kingdom",
+            "cover_file_name": "23399a3a9ce561af3342d06d526eb0f3.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/019/653/small/23399a3a9ce561af3342d06d526eb0f3.jpg",
+            "followed": false,
+            "followers_count": 38678,
+            "following_back": false,
+            "full_name": "adrian smith",
+            "headline": "freelance concept artist and illustrator",
+            "id": 19653,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/019/653/large/c4eb325118f3543f52e2af4d9ab737ee.jpg",
+            "location": "Edinburgh, United Kingdom",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/019/653/medium/c4eb325118f3543f52e2af4d9ab737ee.jpg",
+            "pro_member": true,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/018/587/377/smaller_square/adrian-smith-hatewitch1.jpg?1559921620",
+                "https://cdna.artstation.com/p/assets/images/images/018/548/002/smaller_square/adrian-smith-beast-on-beast.jpg?1559782710",
+                "https://cdnb.artstation.com/p/assets/images/images/017/076/229/smaller_square/adrian-smith-curst-page1.jpg?1554547391",
+                "https://cdna.artstation.com/p/assets/images/images/016/266/756/smaller_square/adrian-smith-shub-niggurath-coloured.jpg?1551530193",
+                "https://cdnb.artstation.com/p/assets/images/images/016/266/731/smaller_square/adrian-smith-cthulu-coloured.jpg?1551530147",
+                "https://cdnb.artstation.com/p/assets/images/images/016/266/723/smaller_square/adrian-smith-bokrug-coloured.jpg?1551530091"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "adrian-smith",
+            "username": "adrian-smith"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": true,
+            "available_full_time": false,
+            "avatar_file_name": "4f06397368f424ca9f112db7fd0278c3.jpg",
+            "city": "Kells",
+            "country": "Ireland",
+            "cover_file_name": null,
+            "default_cover_url": "https://cdn.artstation.com/static_media/placeholders/user/cover/default.jpg",
+            "followed": false,
+            "followers_count": 8759,
+            "following_back": false,
+            "full_name": "John Silva \ud83d\udc1d",
+            "headline": "JohnSilvaArt@gmail.com - Available for Freelance",
+            "id": 678,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/678/large/4f06397368f424ca9f112db7fd0278c3.jpg",
+            "location": "Kells, Ireland",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/000/678/medium/4f06397368f424ca9f112db7fd0278c3.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/019/798/624/20190805220339/smaller_square/john-silva-wulfrit-by-john-silva.jpg?1565060619",
+                "https://cdnb.artstation.com/p/assets/images/images/010/469/287/20180425080332/smaller_square/john-silva-ffvii-summons-shiva-by-john-silva.jpg?1524661413",
+                "https://cdna.artstation.com/p/assets/images/images/000/008/784/20180227062437/smaller_square/ffvii___chocobo_summon__by_johnsilva-d6rgau0.jpg?1519734277",
+                "https://cdna.artstation.com/p/assets/images/images/009/653/298/20180304103547/smaller_square/john-silva-venator-by-johnsilva.jpg?1520181347",
+                "https://cdnb.artstation.com/p/assets/images/images/009/593/887/smaller_square/john-silva-hyena-johnsilva-x.jpg?1519842933",
+                "https://cdnb.artstation.com/p/assets/images/images/009/412/117/smaller_square/john-silva-zenyatta-ra-skin-by-john-silva.jpg?1518836116"
+            ],
+            "skills": [
+                {
+                    "name": "Illustration"
+                },
+                {
+                    "name": "Marketing Illustration"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Book Cover Illustration"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                }
+            ],
+            "subdomain": "johnsilva",
+            "username": "johnsilva"
+        },
+        {
+            "artist_role": true,
+            "available_contract": true,
+            "available_freelance": true,
+            "available_full_time": true,
+            "avatar_file_name": "4b5b2668f2848310477e05263ca6d402.jpg",
+            "city": "Montreal",
+            "country": "Canada",
+            "cover_file_name": "4841034583ea6e5f41a4f14b5521cd53.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/041/026/small/4841034583ea6e5f41a4f14b5521cd53.jpg",
+            "followed": false,
+            "followers_count": 4113,
+            "following_back": false,
+            "full_name": "F\u00e9licien Nourry ",
+            "headline": "conceptartist@Reflector",
+            "id": 41026,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/041/026/large/4b5b2668f2848310477e05263ca6d402.jpg",
+            "location": "Montreal, Canada",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/041/026/medium/4b5b2668f2848310477e05263ca6d402.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdna.artstation.com/p/assets/images/images/008/176/288/20171117152324/smaller_square/felicien-nourry-interieur-mediumel33.jpg?1510953805",
+                "https://cdnb.artstation.com/p/assets/images/images/019/587/625/smaller_square/felicien-nourry-felicien-nourry-ex01.jpg?1564153436",
+                "https://cdnb.artstation.com/p/assets/covers/images/033/992/969/smaller_square/felicien-nourry-felicien-nourry-acu.jpg?1611110981",
+                "https://cdnb.artstation.com/p/assets/images/images/004/072/267/20161124211128/smaller_square/felicien-nourry-demos-harchi-acu.jpg?1480043489",
+                "https://cdna.artstation.com/p/assets/images/images/000/388/940/smaller_square/felicien-nourry-moodvista4.jpg?1420518182",
+                "https://cdna.artstation.com/p/assets/covers/images/033/993/072/smaller_square/felicien-nourry-felicien-nourry-fc3.jpg?1611111350"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "felicien-nourry",
+            "username": "felicien-nourry"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": true,
+            "avatar_file_name": "1ff54665d773aa8f7491238020e7a531.png",
+            "city": "Sarasota",
+            "country": "United States",
+            "cover_file_name": "3db05de0c252077ca709ac98734fa227.jpg",
+            "default_cover_url": "https://cdnb.artstation.com/p/users/covers/000/506/111/small/3db05de0c252077ca709ac98734fa227.jpg",
+            "followed": false,
+            "followers_count": 2309,
+            "following_back": false,
+            "full_name": "Carlos Perfume",
+            "headline": "Surface Artist @ 343 Industries ",
+            "id": 506111,
+            "is_organization_owner": false,
+            "is_plus_member": true,
+            "is_staff": false,
+            "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/506/111/large/1ff54665d773aa8f7491238020e7a531.jpg",
+            "location": "Sarasota, United States",
+            "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/000/506/111/medium/1ff54665d773aa8f7491238020e7a531.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/covers/images/032/254/519/smaller_square/carlos-perfume-carlos-perfume-thumb.jpg?1605894530",
+                "https://cdna.artstation.com/p/assets/covers/images/029/456/174/smaller_square/carlos-perfume-carlos-perfume-thumbnai.jpg?1597615297",
+                "https://cdnb.artstation.com/p/assets/covers/images/025/782/021/smaller_square/carlos-perfume-thumbnail.jpg?1586898782",
+                "https://cdna.artstation.com/p/assets/covers/images/023/700/938/smaller_square/carlos-perfume-carlos-perfume-highresscreenshot00010.jpg?1580078185",
+                "https://cdnb.artstation.com/p/assets/covers/images/023/957/847/smaller_square/carlos-perfume-carlos-perfume-highresscreenshot00004.jpg?1580861518",
+                "https://cdnb.artstation.com/p/assets/covers/images/036/221/643/smaller_square/carlos-perfume-carlos-perfume-thumbnail-korin.jpg?1617055631"
+            ],
+            "skills": [
+                {
+                    "name": "Concept Art"
+                },
+                {
+                    "name": "Concept Design"
+                },
+                {
+                    "name": "Environment Design"
+                },
+                {
+                    "name": "3D Modeling"
+                },
+                {
+                    "name": "Texturing"
+                },
+                {
+                    "name": "Game Design"
+                },
+                {
+                    "name": "Game Development"
+                }
+            ],
+            "software_items": [
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/024/default/maya.png?1504879343",
+                    "name": "Maya"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/032/default/Photoshop.png?1608144074",
+                    "name": "Photoshop"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/041/default/Substance_Painter_Icon.png?1456833230",
+                    "name": "Substance Painter"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/042/default/Substance_Designer_Icon.png?1456833082",
+                    "name": "Substance Designer"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/043/default/toolbag_512.png?1459433117",
+                    "name": "Marmoset Toolbag"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/044/default/unreal_logo_0.png?1471455994",
+                    "name": "Unreal Engine"
+                },
+                {
+                    "icon_url": "https://cdna.artstation.com/p/softwares/icons/000/000/046/default/zBrush3.png?1505488078",
+                    "name": "ZBrush"
+                },
+                {
+                    "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/125/default/premiere-pro.png?1608144421",
+                    "name": "Premiere"
+                }
+            ],
+            "subdomain": "jokeyjay24",
+            "username": "jokeyjay24"
+        },
+        {
+            "artist_role": true,
+            "available_contract": false,
+            "available_freelance": false,
+            "available_full_time": false,
+            "avatar_file_name": "2300b8c67e23913683eefbefc0297bd0.png",
+            "city": "Los Angeles + Toronto",
+            "country": "United States",
+            "cover_file_name": "008.jpg",
+            "default_cover_url": "https://cdna.artstation.com/p/users/covers/000/005/742/small/008.jpg",
+            "followed": false,
+            "followers_count": 13801,
+            "following_back": false,
+            "full_name": "Patrick O'Keefe",
+            "headline": "Illustrator + Concept Artist",
+            "id": 5742,
+            "is_organization_owner": false,
+            "is_plus_member": false,
+            "is_staff": false,
+            "large_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/005/742/large/2300b8c67e23913683eefbefc0297bd0.jpg",
+            "location": "Los Angeles + Toronto, United States",
+            "medium_avatar_url": "https://cdna.artstation.com/p/users/avatars/000/005/742/medium/2300b8c67e23913683eefbefc0297bd0.jpg",
+            "pro_member": false,
+            "sample_projects": [
+                "https://cdnb.artstation.com/p/assets/images/images/016/350/101/smaller_square/patrick-o-keefe-cbf-mkt-posters-teaser01-ok-final-small.jpg?1551826962",
+                "https://cdna.artstation.com/p/assets/images/images/012/819/678/smaller_square/patrick-o-keefe-db-04.jpg?1536682630",
+                "https://cdna.artstation.com/p/assets/images/images/012/819/624/smaller_square/patrick-o-keefe-waterfall.jpg?1536682409",
+                "https://cdnb.artstation.com/p/assets/images/images/012/819/599/smaller_square/patrick-o-keefe-beach-house.jpg?1536682303",
+                "https://cdnb.artstation.com/p/assets/images/images/009/361/453/smaller_square/patrick-o-keefe-dockweiler-sml-800.jpg?1518545659",
+                "https://cdnb.artstation.com/p/assets/images/images/009/361/437/smaller_square/patrick-o-keefe-deli-notes-sml-800.jpg?1518545600"
+            ],
+            "skills": [],
+            "software_items": [],
+            "subdomain": "okeefe",
+            "username": "okeefe"
+        }
+    ],
+    "total_count": 825
+}
